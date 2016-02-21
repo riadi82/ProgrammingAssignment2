@@ -3,7 +3,7 @@
 
 
 ## Makecachematrix function create a special "matrix" object that will
-   cache it's inverse 
+## cache it's inverse 
 
 makeCacheMatrix <- function(A = matrix()) {
         cm <- NULL
